@@ -9,6 +9,9 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanhrepo&layout=compact&hide=Jupyter-Notebook)](https://github.com/anuraghazra/github-readme-stats)
+
 <h2>💻 Some stats 💻</h2>
 
 ![TanH GitHub stats](https://github-readme-stats.vercel.app/api?username=tanhrepo&show_icons=true)

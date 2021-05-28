@@ -14,9 +14,12 @@
 
 <h2>💻 Some stats 💻</h2>
 
-![TanH GitHub stats](https://github-readme-stats.vercel.app/api?username=tanhrepo&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanhrepo&layout=compact&hide=Jupyter-Notebook)](https://github.com/anuraghazra/github-readme-stats)
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=tanhrepo&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanhrepo&layout=compact&hide=Jupyter-Notebook" />
+</a>
 <!--
 **tanhrepo/tanhrepo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

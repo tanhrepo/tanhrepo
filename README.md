@@ -11,7 +11,7 @@
 </br>
 <h2>💻 Some stats 💻</h2>
 
-![TanH's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+![TanH's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanhrepo&show_icons=true)
 
 <!--
 **tanhrepo/tanhrepo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

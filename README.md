@@ -15,7 +15,7 @@
 <h2>💻 Some stats 💻</h2>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=tanhrepo&show_icons=true" />
+  <img align="left" width="420" src="https://github-readme-stats.vercel.app/api?username=tanhrepo&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanhrepo&layout=compact&hide=Jupyter-Notebook" />
